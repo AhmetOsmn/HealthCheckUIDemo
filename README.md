@@ -22,6 +22,12 @@
   - HealthCheckUIDemo.TestAPI
   - HealthCheckUIDemo.TestMVC
 
+
+# Görseller
+
+![image](https://github.com/user-attachments/assets/1e2edede-76b6-4cab-b5bd-c3e7ca2223ba)
+
+
 # Kaynaklar
 
 - [Microsoft](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/monitor-app-health)
