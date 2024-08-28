@@ -111,7 +111,7 @@ app.UseHealthChecks("/health", new HealthCheckOptions
 app.UseHealthChecksUI(config =>
 {
     config.UIPath = "/health-ui";
-    config.PageTitle = "Health Check";
+    config.PageTitle = "Health Checks";
 });
 
 app.Run();
